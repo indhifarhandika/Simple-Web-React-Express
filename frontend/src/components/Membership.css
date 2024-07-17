@@ -1,0 +1,24 @@
+.content-container {
+    padding: 3rem 1rem;
+  }
+  
+  .card {
+    transition: transform 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: translateY(-5px);
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text {
+    font-size: 0.9rem;
+  }
+  
+  .embed-responsive-item {
+    border: none;
+  }
+  
